@@ -1,5 +1,5 @@
 ## task 2 (restaurant)
-uses php and mysql
+use php and mysql
 
 Create a web page for a restaurant that allows the restaurant owner to add new types of food to the menu
 and edit the information about the food or delete any type from the menu .

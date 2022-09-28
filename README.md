@@ -7,6 +7,6 @@ ingredients , and an image of the food - each type  have two buttons : one for e
 when the user clicks on the edit button it  take it to another page with a form that contains the food information with the ability to edit all the information
 when the user clicks one the delete button the food 
 deleted from the menu The Database : create a database and a table to store the food information 
-the table should have these columns ( id , name , ingredients , image.price )
+the table should have these columns ( id , name , ingredients , image , price ).
 
  
